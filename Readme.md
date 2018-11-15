@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication72/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication72/Form1.vb))
+* [Program.cs](./CS/WindowsFormsApplication72/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication72/Program.vb))
+* **[SearchHelper.cs](./CS/WindowsFormsApplication72/SearchHelper.cs) (VB: [SearchHelper.vb](./VB/WindowsFormsApplication72/SearchHelper.vb))**
+<!-- default file list end -->
 # How to implement the quick search feature for the NavBarControl
 
 
